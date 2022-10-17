@@ -1,0 +1,146 @@
+#dots{
+border:0;
+text-align:center;
+}
+
+#dots::before{
+content:"• • • • •";
+font-size:35px;
+color:lightgrey;
+}
+
+
+
+.section1 {
+width:100%;
+height:30vh;
+background-color: #BDF2D5;
+margin: 0px;
+}
+
+body{
+    margin:0;
+}
+
+h1{
+    margin:0px;
+}
+
+.headline1{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 0px;
+    margin-top:0px;
+    color:red;
+}
+
+#headline1ID{
+    padding-top: 5vh;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.headline1S{
+    font-size: 17px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:cadetblue;
+}
+
+#headline1SID{
+    padding-bottom: 5vhpx;
+    text-align: center;
+}
+
+
+.section2{
+    width:100%;
+    height:25vh;
+    background-color: #4B5D67;
+}
+
+.headline2{
+    text-align: center;
+    color:#002D62;
+
+}
+
+.face{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#secondparagraphID{
+    padding-left: 50px;
+}
+
+
+.skill1{
+    padding-left: 30px;
+}
+
+
+.section3{
+    background-color: #47B5FF;
+    height:25vh;
+}
+
+#hskill1{
+    text-align:justify;
+}
+
+.skill1{
+    float:left;
+    display:inline;
+}
+
+#skill1pID{
+    padding-left: 120px;
+}
+
+#skill1hID{
+    padding-left: 120px;
+}
+
+.skill2{
+    float:right;
+}
+
+
+.section4{
+    background-color: #DFF6FF;
+    height:15vh;
+    text-align: center;
+}
+
+#getintouch{
+    padding-top: 30px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.contactMe{
+    margin: 10px;
+    border:2px solid black;
+    background-color: cyan;
+    border-radius:5px;
+}
+
+#mail{
+    text-decoration: none;
+}
+
+
+.section5{
+    text-align: center;
+    height:10vh;
+    background-color: #00FFD1;
+    padding-top:60px;
+}
+
+.SocialMedia{
+    display:inline;
+    padding-left: 33px;
+}
